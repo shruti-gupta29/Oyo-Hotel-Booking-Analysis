@@ -1,0 +1,4 @@
+Oyo Hotel bookings in Excel, I  start by gathering the data i need. This may include information like booking dates, hotel locations, prices, and customer ratings, arrival time, cancel booking, how many adults and children and guest type  . Once I  have the data then use Excel's functions and tools to perform various analyses. Some common analyses such as  calculating average prices, analyzing booking trends over time, identifying cancel booking ratio , hotel locations, and comparing customer ratings.  Dashboards are a fantastic way to present data visually and make it easier to understand. i sum up whole project in three steps which are :
+ETL(Extract transform and load)
+Using data to create Pivot table of hug amount of data.
+sum up in third step create dashboard using Advanced skills Such as bar chart,pie chart etc.
